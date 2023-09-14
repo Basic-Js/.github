@@ -1,12 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img align="middle" src="https://github.com/Alphine-dev/Basic/blob/main/utils/template.png" alt="banner">
+</p>
 
-<!--
+# Basic Vanilla 
 
-**Here are some ideas to get you started:**
+Create the best, in the simplest possible way you can find, it is a tool for everyone.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Basic is a tool for new web developers who just started web development, when I started web development I often get scared and thought of quitting because of how hard it was to setup and configure a project from scratch without knowing anything. I made this tool by using other portable open-source tools which were available to me
+
+#### License [MIT](https://opensource.org/licenses/MIT) & [Creative Commons Legal Code](https://creativecommons.org/publicdomain/zero/1.0/)
+Copyright (c) Arsole676
